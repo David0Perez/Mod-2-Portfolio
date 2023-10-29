@@ -61,3 +61,13 @@ body {
     background-color: purple;
     padding: 30px;
 }
+
+.avatar {
+    float: right;
+}
+
+#avatar{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
