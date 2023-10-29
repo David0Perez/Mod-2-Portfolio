@@ -45,11 +45,13 @@ body {
 #about {
     background-color: lightcoral;
     padding: 30px;
+    color: black;
 }
 
 #work {
-    background-color: lightblue;
+    background-color: white;
     padding: 30px;
+    color: purple;
 }
 
 #contact {
