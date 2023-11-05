@@ -1,4 +1,4 @@
-# Mod-2-Portfolio
+# Mod-2 Portfolio
 I will be building a portfolio from scratch
 
 This is my first creating a html from scratch with css, it as taken me longer to finish this assigment but I think I got the jist of it all.
