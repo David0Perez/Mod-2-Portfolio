@@ -1,10 +1,22 @@
 # Mod-2-Portfolio
 I will be building a portfolio from scratch
 
-This is my first time creating a html from scratch with css, it has a rollercoaster and it is only the beginning, unfortunatley, but it has been fun learning.
+This is my first creating a html from scratch with css, it as taken me longer to finish this assigment but I think I got the jist of it all.
+#Must do
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
 
-I was able to do some of what the assignment entailed, like creating links to the about me, work, and contacts which go the designated sections. As well as creating effects to the buttons on the navbar.
 
-I was having issues with labeling titled images and adjusting sizes.
 
 #MIT LICENSE 

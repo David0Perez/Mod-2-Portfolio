@@ -59,10 +59,6 @@ p {
     justify-content: space-evenly;
     align-items: center;
 }
-.profile-pic {
-    position: relative;
-    margin: 12px;
-}
 section {
     display: flex;
     flex-direction: column;
@@ -103,7 +99,7 @@ section {
     background-color: var(--primary-color);
 }
 img {
-    border: 5px solid var(--tertiary-color);
+    border:1px solid var(--tertiary-color);
 }
 .bottom-left {
     position: absolute;
